@@ -1,4 +1,4 @@
-# Portfolio of Danielle Molloy
+# Danielle Molloy's Portfolio
  
 This project was created with CRA (Create React App)
 
