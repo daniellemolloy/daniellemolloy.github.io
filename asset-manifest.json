@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e016d95c.css",
+    "main.js": "/static/js/main.9a8a1ad7.js",
+    "static/media/headshot.png": "/static/media/headshot.a39b82baaf6bae636e01.png",
+    "static/media/bbslide2.png": "/static/media/bbslide2.f52d56be6feef70b2f74.png",
+    "static/media/amazon-before.png": "/static/media/amazon-before.cb462350511b42fde170.png",
+    "static/media/amazon-after.png": "/static/media/amazon-after.14122b853431f20c43a5.png",
+    "static/media/bbslide.png": "/static/media/bbslide.d9e824b2ba124ae10063.png",
+    "static/media/airobotics3.png": "/static/media/airobotics3.96fd21e038dbed61cf3f.png",
+    "static/media/events-logo.png": "/static/media/events-logo.585b46cf8dc9b199b630.png",
+    "static/media/airobotics2.png": "/static/media/airobotics2.9619f8ba9bf0058cdef7.png",
+    "static/media/airobotics1.png": "/static/media/airobotics1.8a492fe0ebe18f467e6e.png",
+    "static/media/notion-dashboard.png": "/static/media/notion-dashboard.f21b11a2521bf6410426.png",
+    "static/media/CommunityEventsSC.png": "/static/media/CommunityEventsSC.14b9dd12a270a701f687.png",
+    "static/media/airobotics4.png": "/static/media/airobotics4.f3d501e497799cfd8e6b.png",
+    "static/media/apple-fest3.jpg": "/static/media/apple-fest3.52653d4d7ae53e2551b7.jpg",
+    "static/media/CommunityEventsModal.png": "/static/media/CommunityEventsModal.14f55f76608dfdecef9f.png",
+    "static/media/apple-fest2.png": "/static/media/apple-fest2.82f26ecb5884024a18b4.png",
+    "static/media/bblogo.png": "/static/media/bblogo.22d5fb625bde92695b2f.png",
+    "static/media/notion-course-page.png": "/static/media/notion-course-page.c6bfb4fa13027c306a5f.png",
+    "static/media/notion-calendar-view.png": "/static/media/notion-calendar-view.3ad58e03e51fcba9c338.png",
+    "static/media/apple-fest1.png": "/static/media/apple-fest1.b3105ce433e91aaacae3.png",
+    "static/media/Molloy_Danielle_ResumePDF.pdf": "/static/media/Molloy_Danielle_ResumePDF.e0f2b2381caa417bfca9.pdf",
+    "static/media/applefestlogo.png": "/static/media/applefestlogo.b906964841f58baa22ea.png",
+    "static/media/BUSAA-logo.png": "/static/media/BUSAA-logo.739fd49d5d1c8600e3f8.png",
+    "static/media/Dani-Logo.png": "/static/media/Dani-Logo.65085b1e89755d9dd1d4.png",
+    "static/media/notion-logo.png": "/static/media/notion-logo.511dc4f016bd16d1b53d.png",
+    "static/media/airobotics-logo.jpg": "/static/media/airobotics-logo.ac0c59f48fe487c6d529.jpg",
+    "static/media/react-icon.svg": "/static/media/react-icon.aa33f3ea1f6e1de3b17699aa95433df6.svg",
+    "index.html": "/index.html",
+    "main.e016d95c.css.map": "/static/css/main.e016d95c.css.map",
+    "main.9a8a1ad7.js.map": "/static/js/main.9a8a1ad7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e016d95c.css",
+    "static/js/main.9a8a1ad7.js"
+  ]
+}
