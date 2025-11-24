@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Container = styled.section`
   margin: 5rem;
-  margin-bottom: 25rem;
+  margin-bottom: 15rem;
 
   h2 {
     text-align: center;
@@ -116,45 +116,52 @@ export const Container = styled.section`
         }
       }
 
-      &#ProsperOn {
-        background-color: #ffffff;
-      }
-      &#sueapp {
+      &#Amazon {
         background-color: white;
-      }
-      &#BUSAA {
-        background-color: #304c94;
-      }
-      &#DataVis {
-        background-color: black;
-
-        img {
-          width: 75%;
-        }
-      }
-      &#Webkinz {
-        background-color: #5cc4db;
 
         img {
           width: 50%;
         }
       }
-      &#dsi {
-        background-color: #cfd3d4;
-        // background-image: linear-gradient(to bottom right, #e9eef7 30%, lightblue );
+
+      &#notion {
+        background-color: white;
 
         img {
-          width: 85%;
+          width: 50%;
         }
       }
-      &#docket {
-        background-color: #744fbc;
-        // background-image: linear-gradient(to bottom, #d8c4f4 30%, #744fbc);
 
-        img {
-          width: 40%;
-        }
+      &#applefest img {
+          max-width: 170%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin: 0;
       }
+
+      &#byram img {
+        max-width: 120%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+
+      }
+      
+      &#events img {
+        max-width: 125%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+
+      }
+      
+      &#airobotics {
+        background-color: black;
+      }
+
     }
   }
 
@@ -169,6 +176,158 @@ export const Container = styled.section`
       font-size: 3rem;
     }
   }
+
+  #amazon-modal {
+    align-items: center;
+    position: relative;
+    height: 100%;
+
+    .modal-header {
+      margin-bottom: 2rem;
+      text-align: center;
+      font-size: 3rem;
+    }
+  }
+
+  #notion-modal {
+      align-items: center;
+      position: relative;
+      height: 100%;
+
+      .modal-header {
+        margin-bottom: 2rem;
+        text-align: center;
+        font-size: 3rem;
+      }
+    }
+  
+  #applefest-modal {
+      align-items: center;
+      position: relative;
+      height: 100%;
+
+      .modal-header {
+        margin-bottom: 2rem;
+        text-align: center;
+        font-size: 3rem;
+      }
+      
+    }
+
+    #applefest-modal .carousel-item {
+      height: auto !important;
+      min-height: auto !important;
+      padding: 1rem 1.5rem !important; /* reduce huge default padding */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #applefest-modal .carousel-item img {
+      max-width: 90%;
+      max-height: 40vh;
+      object-fit: contain;
+      margin-bottom: 1rem;
+    }
+
+    #applefest-modal .carousel-item p {
+      line-height: 1.5;
+      font-size: 2rem;
+      margin: 0;
+    }
+    
+
+    #byram-modal .carousel-item {
+      height: auto !important;
+      min-height: auto !important;
+      padding: 1rem 1.5rem !important; /* reduce huge default padding */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #byram-modal .carousel-item img {
+      max-width: 90%;
+      max-height: 40vh;
+      object-fit: contain;
+      margin-bottom: 1rem;
+    }
+
+    #byram-modal .carousel-item p {
+      line-height: 1.5;
+      font-size: 2rem;
+      margin: 0;
+    }
+
+    #amazon-modal .carousel-item {
+      height: auto !important;
+      min-height: auto !important;
+      padding: 1rem 1.5rem !important; /* reduce huge default padding */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #amazon-modal .carousel-item img {
+      max-width: 90%;
+      max-height: 40vh;
+      object-fit: contain;
+      margin-bottom: 1rem;
+    }
+
+    #amazon-modal .carousel-item p {
+      line-height: 1.5;
+      font-size: 2rem;
+      margin: 0;
+      padding-top: 3rem;
+    }
+
+
+
+  #airobotics-modal {
+      align-items: center;
+      position: relative;
+      height: 100%;
+
+      .modal-header {
+        margin-bottom: 2rem;
+        text-align: center;
+        font-size: 3rem;
+      }
+    }
+
+  #byram-modal {
+      align-items: center;
+      position: relative;
+      height: 100%;
+
+      .modal-header {
+        margin-bottom: 2rem;
+        text-align: center;
+        font-size: 3rem;
+      }
+    
+      .carousel-item img {
+        max-width: 50%;
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 3rem;
+      }
+      
+    }
+
+  #events-modal {
+      align-items: center;
+      position: relative;
+      height: 100%;
+
+      .modal-header {
+        margin-bottom: 2rem;
+        text-align: center;
+        font-size: 3rem;
+      }
+      
+    }
 
   .carousel-item {
     min-width: 100%;

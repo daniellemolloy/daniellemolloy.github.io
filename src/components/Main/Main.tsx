@@ -261,8 +261,8 @@ export function Main() {
       <Hero></Hero>
       <About></About>
       <Project></Project>
-      <hr />
-      <Testimonials></Testimonials>
+      {/* <hr /> */}
+      {/* <Testimonials></Testimonials> */}
       
     </Container>
   );

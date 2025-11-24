@@ -29,7 +29,7 @@ export function About() {
               My work blends creativity with thoughtful interaction and research.
             </p>
             <h4>Focus Areas:</h4>
-            <p>UX Research, Wireframing, Prototyping, UI Design, Web & Mobile Interfaces</p>
+            <p>UX Research, Graphic Design, Wireframing, Prototyping, UI Design, Web & Mobile Interfaces</p>
             <h4>Design Tools:</h4>
             <ul>
               <li>Figma</li>
@@ -63,7 +63,7 @@ export function About() {
             <ul>
               <li>Data Visualization and Analysis (Python, SQL, Pandas, Seaborn)</li>
               <li>Content Strategy & Brand Design</li>
-              <li>Adobe Creative Cloud</li>
+              <li>Adobe Creative Suite</li>
               <li>Marketing Research</li>
             </ul>
           </div>

@@ -1,7 +1,7 @@
 import { Container } from './styles'
 import { NavHashLink, HashLink } from 'react-router-hash-link'
 import { useState, useEffect, useRef } from 'react'
-import Resume from '../../assets/Molloy, Noam - Resume.pdf'
+import Resume from '../../assets/Molloy_Danielle_ResumePDF.pdf'
 import DaniLogo from '../../assets/Dani-Logo.png'
 export function Header() {
   const [isOpen, setIsOpen] = useState(false);
